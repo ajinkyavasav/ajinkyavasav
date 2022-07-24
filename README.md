@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajinkyavasav
-- 👀 I’m interested in ...c language ,mobile lab development 
+- 👀 I’m interested in ...c language ,mobile apps development 
 - 🌱 I’m currently learning ... c,c++,flutter
-- 💞️ I’m looking to collaborate on ... open sorce project
+- 💞️ I’m looking to collaborate on ... open source project
 - 📫 How to reach me ...ajinkyavasav10@gmail.com
 
 <!---
